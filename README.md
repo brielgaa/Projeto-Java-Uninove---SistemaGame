@@ -68,8 +68,6 @@ Possui **modo escuro**, **salvamento automático** e **descontos exclusivos** pa
 
 3. **Verifique o módulo:**
 ```
-java
-Copiar código
 module SistemaGame {
     requires java.desktop;
     exports jogo;
