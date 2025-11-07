@@ -97,5 +97,6 @@ SistemaGameUI.java
 ```
 👨‍💻 **Autor**
 **Gabriel da Silva Bitencourt**
+
 💡 Projeto acadêmico com foco em **POO, interfaces gráficas e persistência de dados.**
 🧠 Desenvolvido para demonstrar boas práticas de design e usabilidade em Java.
