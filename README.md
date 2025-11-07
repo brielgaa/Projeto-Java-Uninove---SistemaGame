@@ -91,13 +91,6 @@ SistemaGame/
  │      └─ SistemaGameUI.java
  └─ module-info.java
 👨‍💻 Autor
-Gabriel “Célsão” Bitencourt
+Gabriel da Silva Bitencourt
 💡 Projeto acadêmico com foco em POO, interfaces gráficas e persistência de dados.
 🕹️ Desenvolvido para demonstrar boas práticas de design e usabilidade em Java.
-
-📧 Contato: (adicione seu e-mail ou LinkedIn se quiser deixar público)
-
-“Código limpo é aquele que até o futuro você consegue entender.” ✨
-
-yaml
-Copiar código
