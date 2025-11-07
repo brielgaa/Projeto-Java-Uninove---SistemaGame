@@ -75,7 +75,8 @@ module SistemaGame {
 ```
 4. **Execute a classe principal:**
 ```
-SistemaGameUI.java
+SistemaGameUI.java (Caso for usar a interfcae)
+Main.java (Caso for usar no Console)
 ```
 
 📂 **Estrutura do Projeto**
