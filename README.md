@@ -74,24 +74,24 @@ module SistemaGame {
     requires java.desktop;
     exports jogo;
 }
-Execute a classe abaixo como Java Application:
+Execute a classe principal:
 
 Copiar código
 SistemaGameUI.java
 📂 Estrutura do Projeto
-
-SistemaGame/
- ├─ src/
- │  └─ jogo/
- │      ├─ Cliente.java
- │      ├─ ClienteRegular.java
- │      ├─ ClientePremium.java
- │      ├─ Jogo.java
- │      ├─ Venda.java
- │      ├─ Main.java
- │      └─ SistemaGameUI.java
- └─ module-info.java
-
+css
+Copiar código
+📦 SistemaGame/
+ ┣ 📁 src/
+ ┃ ┗ 📂 jogo/
+ ┃   ┣ 📄 Cliente.java
+ ┃   ┣ 📄 ClienteRegular.java
+ ┃   ┣ 📄 ClientePremium.java
+ ┃   ┣ 📄 Jogo.java
+ ┃   ┣ 📄 Venda.java
+ ┃   ┣ 📄 Main.java
+ ┃   ┗ 📄 SistemaGameUI.java
+ ┗ 📄 module-info.java
 👨‍💻 Autor
 Gabriel da Silva Bitencourt
 💡 Projeto acadêmico com foco em POO, interfaces gráficas e persistência de dados.
