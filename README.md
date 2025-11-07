@@ -61,7 +61,7 @@ Possui **modo escuro**, **salvamento automático** e **descontos exclusivos** pa
 
 ## 🚀 Como Executar  
 
-1. **Clone o repositório**
+1. **Clone o repositório:**  
    ```bash
    git clone https://github.com/seu-usuario/SistemaGame.git
 Abra o projeto no Eclipse ou IntelliJ IDEA.
@@ -79,19 +79,19 @@ Execute a classe abaixo como Java Application:
 Copiar código
 SistemaGameUI.java
 📂 Estrutura do Projeto
-css
-Copiar código
+
 SistemaGame/
-** ├─ src/ **
-** │  └─ jogo/ **
-** │      ├─ Cliente.java **
-** │      ├─ ClienteRegular.java**
-** │      ├─ ClientePremium.java **
-** │      ├─ Jogo.java**
-** │      ├─ Venda.java**
-** │      ├─ Main.java**
-** │      └─ SistemaGameUI.java**
-** └─ module-info.java**
+ ├─ src/
+ │  └─ jogo/
+ │      ├─ Cliente.java
+ │      ├─ ClienteRegular.java
+ │      ├─ ClientePremium.java
+ │      ├─ Jogo.java
+ │      ├─ Venda.java
+ │      ├─ Main.java
+ │      └─ SistemaGameUI.java
+ └─ module-info.java
+
 👨‍💻 Autor
 Gabriel da Silva Bitencourt
 💡 Projeto acadêmico com foco em POO, interfaces gráficas e persistência de dados.
