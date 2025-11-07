@@ -90,6 +90,7 @@ SistemaGame/
  │      ├─ Main.java
  │      └─ SistemaGameUI.java
  └─ module-info.java
+ 
 👨‍💻 Autor
 Gabriel da Silva Bitencourt
 💡 Projeto acadêmico com foco em POO, interfaces gráficas e persistência de dados.
