@@ -75,8 +75,9 @@ module SistemaGame {
     exports jogo;
 }
 Execute a classe abaixo como Java Application:
-SistemaGameUI.java
 
+Copiar código
+SistemaGameUI.java
 📂 Estrutura do Projeto
 css
 Copiar código
