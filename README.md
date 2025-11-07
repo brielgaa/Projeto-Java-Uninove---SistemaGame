@@ -59,39 +59,44 @@ Possui **modo escuro**, **salvamento automático** e **descontos exclusivos** pa
 
 ---
 
-## Como Executar
+## 🚀 Como Executar  
 
-1. Clone o repositório
-```bash
-git clone https://github.com/seu-usuario/SistemaGame.git
-Abra o projeto no Eclipse ou IntelliJ IDEA.
+1. **Clone o repositório:**  
+   ```bash
+   git clone https://github.com/seu-usuario/SistemaGame.git
+2. **Abra o projeto no Eclipse ou IntelliJ IDEA.**
 
-Verifique o módulo:
-
+3. **Verifique o módulo:**
+```
 java
 Copiar código
 module SistemaGame {
     requires java.desktop;
     exports jogo;
 }
-Execute a classe principal:
-
-Copiar código
+```
+4. **Execute a classe principal:**
+```
 SistemaGameUI.java
-Estrutura do Projeto
-css
+```
+
+📂 **Estrutura do Projeto**
+
+```
 Copiar código
-SistemaGame/
-├─ src/
-│  └─ jogo/
-│     ├─ Cliente.java
-│     ├─ ClienteRegular.java
-│     ├─ ClientePremium.java
-│     ├─ Jogo.java
-│     ├─ Venda.java
-│     ├─ Main.java
-│     └─ SistemaGameUI.java
-└─ module-info.java
-Autor
-Gabriel da Silva Bitencourt
-Projeto acadêmico com foco em POO, interfaces gráficas e persistência de dados.
+📦 SistemaGame/
+ ┣ 📁 src/
+ ┃ ┗ 📂 jogo/
+ ┃   ┣ 📄 Cliente.java
+ ┃   ┣ 📄 ClienteRegular.java
+ ┃   ┣ 📄 ClientePremium.java
+ ┃   ┣ 📄 Jogo.java
+ ┃   ┣ 📄 Venda.java
+ ┃   ┣ 📄 Main.java
+ ┃   ┗ 📄 SistemaGameUI.java
+ ┗ 📄 module-info.java
+```
+👨‍💻 **Autor**
+**Gabriel da Silva Bitencourt**
+💡 Projeto acadêmico com foco em **POO, interfaces gráficas e persistência de dados.**
+🧠 Desenvolvido para demonstrar boas práticas de design e usabilidade em Java.
