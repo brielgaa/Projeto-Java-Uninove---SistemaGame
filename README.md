@@ -83,7 +83,6 @@ SistemaGameUI.java
 📂 **Estrutura do Projeto**
 
 ```
-Copiar código
 📦 SistemaGame/
  ┣ 📁 src/
  ┃ ┗ 📂 jogo/
